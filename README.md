@@ -48,12 +48,12 @@ Follow the instructions in the respective README files for setup and usage.
 
 Contributors
 Harish K
-Rasagna C H
-Aadithiyan A
+Aadithiyan R
+Dinesh Karthick B
+Bhuvanesh A
 Hemanthkumar V
 Ruthika R
-Prabu C
-and my friends...
+Swetha G
 
 
 
