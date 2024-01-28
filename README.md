@@ -39,8 +39,9 @@ To get started with our Attendance Tracking System, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone [Your Repository Link]
+   git clone https://github.com/dapphari007/Attendance-tracking
 2. Navigate to the specific feature directory:
+   ```bash
    cd web-link-attendance
 
 Follow the instructions in the respective README files for setup and usage.
